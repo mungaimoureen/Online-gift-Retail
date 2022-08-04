@@ -7,7 +7,7 @@ Univariate and Multivariate Analysis
 ### Section C
 Machine learning; KMean clusters, Average silhoutte,Hierachial clustering
 ### Section D 
-Conclutions and recomendations
+Conclusions and recomendations
 ### Running the code
 Access the Main colab notebook (link)
 An Rmd file
@@ -17,4 +17,5 @@ Jupiter Notebook,
 Rstudio
 ### Support and contact details
 Github accounts; mungaimoureen,lauraabuko,KevOdhiambo,
+### Licence
 MIT License Copyright (c) {2022} *Laura Abuko, Samuel Mutua, Moureen Mungai and Kevin Odhiambo
