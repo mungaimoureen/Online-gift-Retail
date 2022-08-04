@@ -17,3 +17,4 @@ Jupiter Notebook,
 Rstudio
 ### Support and contact details
 Github accounts; mungaimoureen,lauraabuko,KevOdhiambo,
+MIT License Copyright (c) {2022} *Laura Abuko, Samuel Mutua, Moureen Mungai and Kevin Odhiambo
