@@ -16,6 +16,6 @@ Use:
 Jupiter Notebook, 
 Rstudio
 ### Support and contact details
-Github accounts; mungaimoureen,lauraabuko,KevOdhiambo,
+Github accounts; mungaimoureen,lauraabuko,KevOdhiambo,Sammy-Mutua
 ### Licence
 MIT License Copyright (c) {2022} *Laura Abuko, Samuel Mutua, Moureen Mungai and Kevin Odhiambo
